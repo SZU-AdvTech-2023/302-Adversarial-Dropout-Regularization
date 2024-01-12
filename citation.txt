@@ -1,0 +1,6 @@
+@article{REPO302,
+    author = "Saito, Kuniaki and Ushiku, Yoshitaka and Harada, Tatsuya and Saenko, Kate",
+    journal = "arXiv preprint arXiv:1711.01575",
+    title = "{Adversarial Dropout Regularization}",
+    year = "2017"
+}
